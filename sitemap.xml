@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.jaydu.vip/2020/06/13/distributed_systems/election/</loc>
+    
+    <lastmod>2020-06-13T13:24:16.587Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.jaydu.vip/2020/06/13/linux/perf/</loc>
     
     <lastmod>2020-06-13T12:58:07.509Z</lastmod>
@@ -16,14 +23,14 @@
   </url>
   
   <url>
-    <loc>http://www.jaydu.vip/tags/index.html</loc>
+    <loc>http://www.jaydu.vip/repository/index.html</loc>
     
     <lastmod>2020-06-13T12:41:26.666Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.jaydu.vip/repository/index.html</loc>
+    <loc>http://www.jaydu.vip/tags/index.html</loc>
     
     <lastmod>2020-06-13T12:41:26.666Z</lastmod>
     
@@ -54,13 +61,6 @@
     <loc>http://www.jaydu.vip/2020/06/13/reading_notes/Data_intensive_application_system_design/chapter4/</loc>
     
     <lastmod>2020-06-13T12:41:26.662Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.jaydu.vip/2020/06/13/distributed_systems/election/</loc>
-    
-    <lastmod>2020-06-13T12:41:26.661Z</lastmod>
     
   </url>
   
