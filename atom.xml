@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JayDu Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.jaydu.vip/"/>
+  <updated>2020-06-13T12:41:26.662Z</updated>
+  <id>http://www.jaydu.vip/</id>
+  
+  <author>
+    <name>JayDu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第四章-数据编码与演化</title>
+    <link href="http://www.jaydu.vip/2020/06/13/reading_notes/Data_intensive_application_system_design/chapter4/"/>
+    <id>http://www.jaydu.vip/2020/06/13/reading_notes/Data_intensive_application_system_design/chapter4/</id>
+    <published>2020-06-13T12:41:26.662Z</published>
+    <updated>2020-06-13T12:41:26.662Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Jun 13 2020 21:19:30 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;数据编码格式&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#数据编码格式&quot;&gt;&lt;/a&gt; 数据编码格式&lt;/h3
+      
+    
+    </summary>
+    
+    
+      <category term="《第四章-数据编码与演化》读书笔记" scheme="http://www.jaydu.vip/categories/%E3%80%8A%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%95%B0%E6%8D%AE%E7%BC%96%E7%A0%81%E4%B8%8E%E6%BC%94%E5%8C%96%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="读书笔记" scheme="http://www.jaydu.vip/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="数据密集型应用系统设计" scheme="http://www.jaydu.vip/tags/%E6%95%B0%E6%8D%AE%E5%AF%86%E9%9B%86%E5%9E%8B%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux下perf性能优化</title>
+    <link href="http://www.jaydu.vip/2020/06/13/linux/perf/"/>
+    <id>http://www.jaydu.vip/2020/06/13/linux/perf/</id>
+    <published>2020-06-13T12:41:26.661Z</published>
+    <updated>2020-06-13T12:58:07.509Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Jun 13 2020 21:19:30 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;工具准备&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#工具准备&quot;&gt;&lt;/a&gt; 工具准备&lt;/h3&gt;&lt;ol&gt;&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="linux" scheme="http://www.jaydu.vip/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="http://www.jaydu.vip/tags/linux/"/>
+    
+      <category term="perf" scheme="http://www.jaydu.vip/tags/perf/"/>
+    
+      <category term="性能优化" scheme="http://www.jaydu.vip/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>分布式系统选主</title>
+    <link href="http://www.jaydu.vip/2020/06/13/distributed_systems/election/"/>
+    <id>http://www.jaydu.vip/2020/06/13/distributed_systems/election/</id>
+    <published>2020-06-13T12:41:26.660Z</published>
+    <updated>2020-06-13T12:41:26.661Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Jun 13 2020 21:19:30 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;bully算法长者为大&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#bully算法长者为大&quot;&gt;&lt;/a&gt; 
+      
+    
+    </summary>
+    
+    
+      <category term="分布式" scheme="http://www.jaydu.vip/categories/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+    
+    
+      <category term="分布式" scheme="http://www.jaydu.vip/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+    
+      <category term="选主" scheme="http://www.jaydu.vip/tags/%E9%80%89%E4%B8%BB/"/>
+    
+  </entry>
+  
+</feed>
