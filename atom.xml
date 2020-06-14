@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.jaydu.vip/"/>
-  <updated>2020-06-13T17:21:46.556Z</updated>
+  <updated>2020-06-14T08:59:29.693Z</updated>
   <id>http://www.jaydu.vip/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="http://www.jaydu.vip/2020/06/14/distributed_systems/election/"/>
     <id>http://www.jaydu.vip/2020/06/14/distributed_systems/election/</id>
     <published>2020-06-13T17:05:38.885Z</published>
-    <updated>2020-06-13T17:21:46.556Z</updated>
+    <updated>2020-06-14T08:59:29.693Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Jun 14 2020 01:24:51 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;bully算法长者为大&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#bully算法长者为大&quot;&gt;&lt;/a&gt; 
+        &lt;!-- build time:Sun Jun 14 2020 16:59:38 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;bully算法&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#bully算法&quot;&gt;&lt;/a&gt; Bully算法&lt;
       
     
     </summary>
